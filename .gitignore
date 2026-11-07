@@ -1,0 +1,3 @@
+
+# Claude Code per-user permission grants; may hold tokens typed into approved commands
+.claude/settings.local.json
